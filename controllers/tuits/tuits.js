@@ -1,6 +1,5 @@
 export default [
     {
-        "_id": "234",
         "topic": "Tesla",
         "userName": "Tesla",
         "time": "2h",
@@ -16,7 +15,6 @@ export default [
         "tuit": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars"
     },
     {
-        "_id": "555",
         "topic": "Java",
         "userName": "Java",
         "time": "10h",
@@ -32,7 +30,6 @@ export default [
         "tuit": "Watch @gsaab give updates on the #Java20 release and Oracle’s ongoing Java technology leadership in today’s Java Developer Day keynote at Level Up! Register for FREE so you don’t miss it. #OracleDevLive https://social.ora.cl/60163FSUo"
     },
     {
-        "_id": "6666",
         "topic": "Java Script",
         "userName": "Java Script",
         "time": "1h",
